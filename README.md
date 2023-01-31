@@ -1,4 +1,4 @@
-# C-Project-Portfolio: Solving Real-World Problems through Object-Oriented Design and Concurrent Programming"
+# C++ Project-Portfolio: Solving Real-World Problems through Object-Oriented Design and Concurrent Programming"
 
 Welcome to my C++ project portfolio! Here, you will find a collection of our most impactful and challenging projects, each showcasing my expertise in solving real-world problems through object-oriented design and concurrent programming. Our projects range from route finding, process monitoring, memory management chatbots, to concurrent traffic simulation.
 
